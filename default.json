@@ -1,0 +1,19 @@
+{
+    "profileInfo":{
+        "level":0,
+        "xp":0,
+        "selectedPuzzleID":[-1, 0],
+        "preferences":{
+            "showNumbers":true,
+            "showReference":true
+        },
+        "settings":{
+            "soundEffects":true,
+            "darklightMode":true
+        }
+    },
+    "puzzles":[
+        [],
+        [{},{},{},{},{},{},{},{},{}]
+    ]
+}

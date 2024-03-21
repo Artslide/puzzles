@@ -1,0 +1,12 @@
+{
+    "categories":[
+        {
+            "name": "Animals",
+            "length": 4
+        },
+        {
+            "name": "Environment",
+            "length": 3
+        }
+    ]
+}

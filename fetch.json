@@ -1,12 +1,12 @@
 {
-    "categories":[
-      {
-        "name": "Animals",
-        "ids": ["0","1","2","3"]
-      },
-      {
-        "name": "Environment",
-        "ids": ["0","1","2"]
-      }
-    ]
-  }
+  "categories":[
+    {
+      "name": "Animals",
+      "ids": ["0","1","2","3"]
+    },
+    {
+      "name": "Environment",
+      "ids": ["0","1","2"]
+    }
+  ]
+}

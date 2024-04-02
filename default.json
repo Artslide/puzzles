@@ -1,20 +1,20 @@
 {
-    "profileInfo":{
-      "level":0,
-      "xp":0,
-      "selectedPuzzleID":[-1, 0],
-      "preferences":{
-        "showNumbers":true,
-        "showReference":true
-      },
-      "settings":{
-        "soundEffects":true,
-        "darklightMode":true
-      }
+  "profileInfo":{
+    "level":0,
+    "xp":0,
+    "selectedPuzzleID":[-1, 0],
+    "preferences":{
+      "showNumbers":true,
+      "showReference":true
     },
-    "categories":{
-      "Custom":[],
-      "Animals":{"0":{},"1":{},"2":{},"3":{}},
-      "Environment":{"0":{},"1":{},"2":{}}
+    "settings":{
+      "soundEffects":true,
+      "darkMode":false
     }
+  },
+  "categories":{
+    "Custom":{},
+    "Animals":{"0":{},"1":{},"2":{},"3":{}},
+    "Environment":{"0":{},"1":{},"2":{}}
   }
+}

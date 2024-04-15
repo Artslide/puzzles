@@ -2,11 +2,11 @@
   "categories":[
     {
       "name": "Animals",
-      "ids": ["0","1","2","3","4","5","6","7","8"]
+      "ids": ["sleepingredpanda.jpg","2frogs_dragonfly.jpg","shark_anchor.jpg","huskies.jpg","fireflyflower.jpg","cowboy_alligator.jpg"]
     },
     {
       "name": "Environment",
-      "ids": ["0","1","2","3","4","5"]
+      "ids": ["autumn_swing.jpg","campfire_snacks.jpg","golden_cliffs.jpg","astronaut_bedroom.jpg","milkyway_docks.jpg","sunlit_bar.jpg"]
     }
   ]
 }

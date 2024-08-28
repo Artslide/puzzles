@@ -4,10 +4,10 @@
     {
       "name": "Animals",
       "minVersionReq":"0",
-      "ids": ["grapes.png","sleepingredpanda.jpg","2frogs_dragonfly.jpg","shark_anchor.jpg","huskies.jpg","cowboy_alligator.jpg"]
+      "ids": ["cat_branch.png","koy_fish.jpg","red_panda.jpg","koala.jpg","husky.jpg","panda.jpg","owl.jpg","frog.jpg"]
     },
     {
-      "name": "Environment",
+      "name": "Food",
       "minVersionReq":"0",
       "ids": ["autumn_swing.jpg","campfire_snacks.jpg","golden_cliffs.jpg","astronaut_bedroom.jpg","milkyway_docks.jpg","sunlit_bar.jpg"]
     }

@@ -4,7 +4,7 @@
     {
       "name": "Animals",
       "minVersionReq":"0",
-      "ids": ["cat_branch.png","koy_fish.jpg","red_panda.jpg","koala.jpg","husky.jpg","panda.jpg","owl.jpg","frog.jpg"]
+      "ids": ["cat_branch.jpg","koy_fish.jpg","red_panda.jpg","koala.jpg","husky.jpg","panda.jpg","owl.jpg","frog.jpg"]
     },
     {
       "name": "Food",

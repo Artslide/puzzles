@@ -2,14 +2,14 @@
   "latestStableVersion":"0.0.0",
   "categories":[
     {
-      "name": "Animals",
+      "name": "Art Styles",
       "minVersionReq":"0",
-      "ids": ["cat_branch.jpg","koy_fish.jpg","red_panda.jpg","koala.jpg","husky.jpg","panda.jpg","owl.jpg","frog.jpg"]
+      "ids": ["moose_painting.jpeg","bear_paper.jpeg","fox_lowpoly.jpeg","cottage_felt.jpeg","cat_bird.png","dolphiin.jpg","street_art.jpg"]
     },
     {
-      "name": "Food",
+      "name": "Foods",
       "minVersionReq":"0",
-      "ids": ["autumn_swing.jpg","campfire_snacks.jpg","golden_cliffs.jpg","astronaut_bedroom.jpg","milkyway_docks.jpg","sunlit_bar.jpg"]
+      "ids": ["pizza.jpg","sushi.jpg","nutella.jpg","burger.jpg","ice_cream.jpg","noodles.jpg","cupcakes.jpg"]
     }
   ]
 }

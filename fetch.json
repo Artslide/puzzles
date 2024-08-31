@@ -2,6 +2,11 @@
   "latestStableVersion":"0.0.0",
   "categories":[
     {
+      "name": "Animals",
+      "minVersionReq":"0",
+      "ids": ["cat_branch.jpg","koy_fish.jpg","red_panda.jpg","koala.jpg","husky.jpg","panda.jpg","owl.jpg","frog.jpg"]
+    },
+    {
       "name": "Art Styles",
       "minVersionReq":"0",
       "ids": ["moose_painting.jpeg","bear_paper.jpeg","fox_lowpoly.jpeg","cottage_felt.jpeg","cat_bird.png","dolphin.jpg","street_art.jpg"]

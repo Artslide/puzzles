@@ -9,12 +9,12 @@
     {
       "name": "Art Styles",
       "minVersionReq":"0",
-      "ids": ["moose_painting.jpeg","bear_paper.jpeg","fox_lowpoly.jpeg","cottage_felt.jpeg","cat_bird.png","dolphin.jpg","street_art.jpg"]
+      "ids": ["moose_painting.jpeg","bear_paper.jpeg","fox_lowpoly.jpeg","shark.jpg","cottage_felt.jpeg","cat_bird.png","dolphin.jpg","street_art.jpg"]
     },
     {
       "name": "Foods",
       "minVersionReq":"0",
-      "ids": ["pizza.jpg","sushi.jpg","nutella.jpg","burger.jpg","ice_cream.jpg","noodles.jpg","cupcakes.jpg"]
+      "ids": ["pizza.jpg","sushi.jpg","nutella.jpg","burger.jpg","ice_cream.jpg","noodles.jpg","cupcakes.jpg","chacuterie.jpg"]
     }
   ]
 }

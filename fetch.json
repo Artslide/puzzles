@@ -4,17 +4,68 @@
     {
       "name": "Animals",
       "minVersionReq":"0",
-      "ids": ["cat_branch.jpg","koy_fish.jpg","red_panda.jpg","koala.jpg","husky.jpg","panda.jpg","owl.jpg","frog.jpg"]
+      "puzzles": [
+        {"id": "cat_branch.jpg",
+				"credit": ""},
+				{"id": "koi_fish.jpg",
+				"credit": ""},
+				{"id": "red_panda.jpg",
+				"credit": ""},
+				{"id": "koala.jpg",
+				"credit": ""},
+				{"id": "husky.jpg",
+				"credit": ""},
+				{"id": "panda.jpg",
+				"credit": ""},
+				{"id": "owl.jpg",
+				"credit": ""},
+				{"id": "frog.jpg",
+				"credit": ""}
+      ]
     },
     {
       "name": "Art Styles",
       "minVersionReq":"0",
-      "ids": ["moose_painting.jpeg","bear_paper.jpeg","fox_lowpoly.jpeg","shark.jpg","cottage_felt.jpeg","cat_bird.png","dolphin.jpg","street_art.jpg"]
+      "puzzles": [
+        {"id": "moose_painting.jpeg",
+				"credit": ""},
+				{"id": "bear_paper.jpeg",
+				"credit": ""},
+				{"id": "fox_lowpoly.jpeg",
+				"credit": ""},
+				{"id": "shark.jpg",
+				"credit": ""},
+				{"id": "cottage_felt.jpeg",
+				"credit": ""},
+				{"id": "cat_bird.png",
+				"credit": ""},
+				{"id": "dolphin.jpg",
+				"credit": ""},
+				{"id": "street_art.jpg",
+				"credit": ""}
+      ]
     },
     {
       "name": "Foods",
       "minVersionReq":"0",
-      "ids": ["pizza.jpg","sushi.jpg","nutella.jpg","burger.jpg","ice_cream.jpg","noodles.jpg","cupcakes.jpg","chacuterie.jpg"]
+      "puzzles": [
+        {"id": "pizza.jpg",
+				"credit": ""},
+				{"id": "sushi.jpg",
+				"credit": ""},
+				{"id": "nutella.jpg",
+				"credit": ""},
+				{"id": "burger.jpg",
+				"credit": ""},
+				{"id": "ice_cream.jpg",
+				"credit": ""},
+				{"id": "noodles.jpg",
+				"credit": ""},
+				{"id": "cupcakes.jpg",
+				"credit": ""},
+				{"id": "chacuterie.jpg",
+				"credit": ""}
+      ]
     }
   ]
 }

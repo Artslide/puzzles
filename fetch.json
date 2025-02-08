@@ -6,21 +6,21 @@
       "minVersionReq":"0",
       "puzzles": [
         {"id": "cat_branch.jpg",
-        "credit": ""},
+        "credit": "MM Fotovideo"},
         {"id": "koi_fish.jpg",
-        "credit": ""},
+        "credit": "Quang Nguyễn Vinh"},
         {"id": "red_panda.jpg",
-        "credit": ""},
+        "credit": "miezekieze"},
         {"id": "koala.jpg",
-        "credit": ""},
+        "credit": "Flickr (Mathias Appel)"},
         {"id": "husky.jpg",
         "credit": ""},
         {"id": "panda.jpg",
-        "credit": ""},
+        "credit": "William Warby"},
         {"id": "owl.jpg",
-        "credit": ""},
+        "credit": "Kevinsphotos"},
         {"id": "frog.jpg",
-        "credit": ""}
+        "credit": "William Warby"}
       ]
     },
     {
@@ -50,21 +50,21 @@
       "minVersionReq":"0",
       "puzzles": [
         {"id": "pizza.jpg",
-        "credit": ""},
+        "credit": "Rene Strgar"},
         {"id": "sushi.jpg",
-        "credit": ""},
+        "credit": "Rajesh TP"},
         {"id": "nutella.jpg",
-        "credit": ""},
+        "credit": "Jonathan Borba"},
         {"id": "burger.jpg",
-        "credit": ""},
+        "credit": "rajdeepcraft"},
         {"id": "ice_cream.jpg",
-        "credit": ""},
+        "credit": "Leix"},
         {"id": "noodles.jpg",
-        "credit": ""},
+        "credit": "JANG’S"},
         {"id": "cupcakes.jpg",
-        "credit": ""},
+        "credit": "Prem Singh Tanay"},
         {"id": "chacuterie.jpg",
-        "credit": ""}
+        "credit": "Mizzu Cho"}
       ]
     }
   ]

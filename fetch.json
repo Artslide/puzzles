@@ -28,21 +28,21 @@
       "minVersionReq":"0",
       "puzzles": [
         {"id": "moose_painting.jpeg",
-        "credit": "sparkyarts"},
+        "credit": "penzingmachine"},
         {"id": "bear_paper.jpeg",
-        "credit": "m8kes_dart"},
+        "credit": "mikersdart"},
         {"id": "fox_lowpoly.jpeg",
-        "credit": "kashmire_creates"},
+        "credit": "kashmir0_creates"},
         {"id": "shark.jpg",
         "credit": "Pingjing Fan"},
         {"id": "cottage_felt.jpeg",
         "credit": "Eric Crossler"},
         {"id": "cat_bird.png",
-        "credit": "kashmire_creates"},
+        "credit": "kashmir0_creates"},
         {"id": "dolphin.jpg",
         "credit": "Imaginaction Arts"},
         {"id": "street_art.jpg",
-        "credit": ""}
+        "credit": "scooterenglasias"}
       ]
     },
     {
@@ -69,4 +69,5 @@
     }
   ]
 }
+
 

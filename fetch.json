@@ -12,7 +12,7 @@
         {"id": "red_panda.jpg",
         "credit": "miezekieze"},
         {"id": "koala.jpg",
-        "credit": "Flickr (Mathias Appel)"},
+        "credit": "Mathias Appel"},
         {"id": "husky.jpg",
         "credit": ""},
         {"id": "panda.jpg",
@@ -30,15 +30,15 @@
         {"id": "moose_painting.jpeg",
         "credit": "penzingmachine"},
         {"id": "bear_paper.jpeg",
-        "credit": "mikersdart"},
+        "credit": "mike.rsd.art"},
         {"id": "fox_lowpoly.jpeg",
         "credit": "kashmir0_creates"},
         {"id": "shark.jpg",
         "credit": "Pingjing Fan"},
         {"id": "cottage_felt.jpeg",
-        "credit": "Eric Crossler"},
+        "credit": "Eldbjørg Aland"},
         {"id": "cat_bird.png",
-        "credit": "kashmir0_creates"},
+        "credit": "penzingmachine"},
         {"id": "dolphin.jpg",
         "credit": "Imaginaction Arts"},
         {"id": "street_art.jpg",
@@ -69,5 +69,6 @@
     }
   ]
 }
+
 
 
